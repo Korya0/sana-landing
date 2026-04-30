@@ -15,7 +15,7 @@ This repository contains:
 - `main.js`: Interactive logic and AOS (Animate On Scroll) initialization.
 
 ## 🌐 Live Demo
-Visit the live landing page at: [Korya0.github.io/Sana/](https://Korya0.github.io/Sana/)
+Visit the live landing page at: [korya0.github.io/sana-landing/](https://korya0.github.io/sana-landing/)
 
 ## 🛠 Deployment
 This project is automatically deployed to **GitHub Pages** using GitHub Actions.
